@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Factura/static/css/main.62b448b8.css",
+    "main.js": "/Factura/static/js/main.8ae9703a.js",
+    "static/js/453.41809874.chunk.js": "/Factura/static/js/453.41809874.chunk.js",
+    "index.html": "/Factura/index.html",
+    "main.62b448b8.css.map": "/Factura/static/css/main.62b448b8.css.map",
+    "main.8ae9703a.js.map": "/Factura/static/js/main.8ae9703a.js.map",
+    "453.41809874.chunk.js.map": "/Factura/static/js/453.41809874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62b448b8.css",
+    "static/js/main.8ae9703a.js"
+  ]
+}
